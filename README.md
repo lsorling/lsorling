@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+# 17 Oct 2025
+
+I have been teaching coding enrichment classes since Feb 2019.
 <!--
 **lsorling/lsorling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
